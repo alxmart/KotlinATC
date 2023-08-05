@@ -3,7 +3,7 @@ package Lesson01
 fun main() {
 
     println("=========================================")
-    println("Welcome to Android ")
+    println("Welcome to Kotlin")
     println("=========================================")
 
     println("Enter Your Name :")

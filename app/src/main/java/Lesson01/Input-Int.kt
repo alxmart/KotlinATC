@@ -2,7 +2,7 @@ package Lesson01
 
 fun main() {
     println("=========================================")
-    println("Welcome to Calculator")
+    println("Welcome to Kotlin Calculator")
     println("=========================================")
 
     println("Enter the first number:")

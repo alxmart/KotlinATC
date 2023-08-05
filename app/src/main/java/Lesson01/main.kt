@@ -64,7 +64,7 @@ fun main() {
     println("Price Float is: $priceFloat")
 
     // Double  - 64 bits 0.0D
-    var price: Double = 10.05
+    var price: Double = 9.25
     var tax = 0.05
     println("Price is $price and tax is $tax")
 
@@ -86,11 +86,11 @@ fun main() {
     println("vetorInt[1]: ${vetorInt[1]}")
     println("vetorInt[2]: ${vetorInt[2]}")
 
-    var winter = arrayOf("Jan", "Feb", "Mar") // implicity String
+    var inverno = arrayOf("Jul", "Ago", "Sep") // implicity String
     var ABC = arrayOf('A', 'B', 'C') // implicity Char
 
     for (i in 0..2) {
-        println(winter[i])
+        println(inverno[i])
     }
     for (i in 0..2) {
         println(ABC[i])
