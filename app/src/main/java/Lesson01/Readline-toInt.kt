@@ -2,17 +2,19 @@ package Lesson01
 
 fun main() {
     println("=========================================")
-    println("Welcome to Android ATC Calculator")
+    println("Welcome to Calculator")
     println("=========================================")
 
-    println("Enter the first number:")
+    println("Enter number:")
     var x= readLine()!!.toInt()
 
-    println("Enter the Second number:")
+    println("Enter second number:")
     var y = readLine()!!.toInt()
 
-    println("The Sum Result= ${x+y}")
-    println("The Multiplication Result=${x*y}")
-    println("The Division Result= ${x/y}")
+    println("Sum: ${x+y}")
+    println("Subtraction:  ${x-y}")
+    println("Multiplication: ${x*y}")
+    println("Division:  ${x/y}")
+
 
     println("========================================================")}

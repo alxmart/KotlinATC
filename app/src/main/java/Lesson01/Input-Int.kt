@@ -2,7 +2,7 @@ package Lesson01
 
 fun main() {
     println("=========================================")
-    println("Welcome to Android ATC Calculator")
+    println("Welcome to Calculator")
     println("=========================================")
 
     println("Enter the first number:")

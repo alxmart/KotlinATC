@@ -8,13 +8,13 @@ package Lesson01
 //val y = 1
 
 fun test() {
-    println("Hello kotlin Developers")
+    println("Hello kotlin")
 }
 
 fun main() {
 
-    //println("Hello, Android ATC")
-    //println("Welcome to Android ATC")
+    //println("Hello, Android")
+    //println("Welcome to Android")
 
     /*
     val z = x + y

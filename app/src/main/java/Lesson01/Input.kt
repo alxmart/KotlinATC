@@ -3,7 +3,7 @@ package Lesson01
 fun main() {
 
     println("=========================================")
-    println("Welcome to Android ATC")
+    println("Welcome to Android ")
     println("=========================================")
 
     println("Enter Your Name :")
