@@ -7,10 +7,12 @@ fun main() {
     println("=========================================")
 
     println("Enter Your Name :")
-    var x= readLine()
+    var name  = readLine()
 
     println("Enter Your Age :")
-    var y= readLine()
+    var age = readLine()
 
-    println("Thank you, Your Name is : $x and Your Age is = $y")
-    println("========================================================")}
+    println("Thank you, Your Name is : $name and Your Age is = $age")
+    println("========================================================")
+
+}
