@@ -1,10 +1,12 @@
 package Lesson02
 
-var myBlackCat="Boris"
+var myBlackCat = "Boris"
+
 fun main() {
     cats("Borinho")
 }
-fun cats  (myBlackCat:String) {
+
+fun cats(myBlackCat: String) {
     println("My Black Cat Name is : $myBlackCat")
 }
 

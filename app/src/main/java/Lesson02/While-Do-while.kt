@@ -4,7 +4,7 @@ fun main() {
 
     var total = 1
 
-    while (total <= 10 ) {
+    while (total <= 10) {
         println("Total: $total")
         total++
     }
@@ -12,7 +12,6 @@ fun main() {
     do {
         println("Total: $total")
         total++
-    }
-        while (total <= 15)
+    } while (total <= 15)
 
-    }
+}
